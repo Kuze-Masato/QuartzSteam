@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/QuartzSteam/', 
   title: "QuartzSteam",
   description: "QuartzSteam 的官方文档站，提供游戏攻略和工具指南",
   themeConfig: {
