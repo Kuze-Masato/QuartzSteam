@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "石英蒸汽 | QuartzSteam"
-  text: "QuartzSteam 服务器游戏文档"
+  name: "石英蒸汽 QuartzSteam"
+  text: "一个充满魔法、探索与温暖的 Minecraft 社区"
   tagline: 「逐光而行，求索不止」
   actions:
     - theme: brand
